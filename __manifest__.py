@@ -5,7 +5,7 @@
     'summary': """Add the company address to every attendence records in a form of string""",
 
     'author': "DERICK TEMFACK",
-    'website': "http://www.yourcompany.com",
+    'website': "https://github.com/tderick/hr_add_company_to_attendence",
     'category': 'Uncategorized',
     'version': '0.1',
     # any module necessary for this one to work correctly
